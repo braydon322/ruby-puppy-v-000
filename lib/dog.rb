@@ -12,7 +12,7 @@ class Dog
     @@all = []
   end
 
-  def self.all?
+  def self.all
     @@all.each do |name|
     end
   end
